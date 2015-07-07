@@ -1,0 +1,10 @@
+{
+  "name": "codeforces_test_case_downloader",
+  "title": "Codeforces test case downloader",
+  "id": "",
+  "description": "An addon to download testcases from codeforces website",
+  "author": "shubham vishwakarma",
+  "version": "0.3",
+  "permissions": {"private-browsing": true}
+
+}
